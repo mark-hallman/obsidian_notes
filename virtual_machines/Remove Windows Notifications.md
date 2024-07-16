@@ -1,0 +1,4 @@
+- [ ] Settings -> Notifications -> Set Priority Notifications
+- [ ] Settings -> System -> Notifications - Drill down into each setting
+- [ ] Run my PowerShell script to turn off other notifications.  Some notifications might not a way to turn on/off.
+- [ ] 

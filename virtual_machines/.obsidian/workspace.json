@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "f0a5702060a16843",
+    "type": "split",
+    "children": [
+      {
+        "id": "98e812204e3258b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "264d4f2215d07f5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Win11 VMs - TPM Encryption.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e692f2ca3b1fb96d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bypass Win11 TPM 2.0 Requirement.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad577d5c95aa5856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bypass Win11 TPM 2.0 Requirement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2de30f9be5a3ab00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Debloat Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f411215fb4af8862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SANS Product licenses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22ab1996cd818dd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Remove Windows Notifications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d5089e29e886f7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desktop Shortcut for workbook-update.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32c3376d9023131e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shrinking VMWare Drives.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fa7cf9f89d2402f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Win11 - Bypass Win11 TPM - Two methods.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcf72e79aa9824a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on Win11 Performance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25a00061aa25c72b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a361e0949a3b1965",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1548d386ce1400b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ce0d6406e3f6672",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d58bd732012634ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b6d1c937640cd8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "021eeea5c17b35d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88ccadfcfebf7b7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Shrinking VMWare Drives.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "182c8ca8ceda4fe9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Shrinking VMWare Drives.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20a6a99118d86680",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "48547472a7a36716",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Shrinking VMWare Drives.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "32c3376d9023131e",
+  "lastOpenFiles": [
+    "Desktop Shortcut for workbook-update.md",
+    "Shrinking VMWare Drives.md",
+    "Remove Windows Notifications.md",
+    "SANS Product licenses.md",
+    "Debloat Windows.md",
+    "Bypass Win11 TPM 2.0 Requirement.md",
+    "Win11 - Bypass Win11 TPM - Two methods.md",
+    "Notes on Win11 Performance.md",
+    "Win11 VMs - TPM Encryption.md",
+    "My notes on TPM and the VMX.md",
+    "Welcome.md"
+  ]
+}
